@@ -10,3 +10,5 @@ Story Public link-https://public.tableau.com/views/Book2_16813965004820/Story1?:
 https://public.tableau.com/views/Book5_16813978225780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Video Demonstartation-https://drive.google.com/file/d/1vyslR6yI6GtyNubCXE3XHW_eseavaFQy/view?usp=sharing
+
+HTML-file:///C:/Users/Lenovo/Downloads/HTML.html
